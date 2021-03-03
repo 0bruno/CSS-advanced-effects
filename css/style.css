@@ -13,3 +13,12 @@ body {
   min-height: 100vh;
   background: #232427;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 40px 0;
+}
