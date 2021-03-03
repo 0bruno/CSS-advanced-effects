@@ -50,3 +50,8 @@ body {
   transform: translateY(-50px);
   box-shadow: 0 40px 70px rgba(0, 0, 0, 0.5);
 }
+
+.container .card .box .content {
+  padding: 20px;
+  text-align: center;
+}
