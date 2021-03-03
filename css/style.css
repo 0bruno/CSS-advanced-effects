@@ -47,7 +47,6 @@ body {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  pointer-events: none;
 }
 
 .container .card .box::before {
