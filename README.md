@@ -1,2 +1,2 @@
 <h1>Card Animado com CSS</h1>
-![Optional Text](../master/myFolder/card.png)
+<img src="/myFolder/card.png" alt="My cool card"/>
