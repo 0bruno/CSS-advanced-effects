@@ -52,3 +52,9 @@ body {
   color: #e21212;
   font-size: 0.8em;
 }
+
+.card .details .content .social-icons {
+  position: relative;
+  display: flex;
+  margin: 10px;
+}
