@@ -47,3 +47,8 @@ body {
   text-align: center;
   line-height: 1em;
 }
+
+.card .details .content h2 span {
+  color: #e21212;
+  font-size: 0.8em;
+}
