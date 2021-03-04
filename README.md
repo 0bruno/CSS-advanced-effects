@@ -1,1 +1,1 @@
-<h1>Card Animado com CSS</h1>
+<h1>Projetos afim de aprimorar os conhecimentos em CSS3 Avançado</h1>
