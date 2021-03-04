@@ -55,6 +55,10 @@ body {
   backface-visibility: hidden;
 }
 
+.card .imgBox img:nth-child(2) {
+  transform: rotateY(180deg);
+}
+
 .card .details {
   position: absolute;
   top: 0;
