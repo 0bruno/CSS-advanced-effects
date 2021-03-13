@@ -4,5 +4,5 @@
 1 - Card Animado.
 ![](gif.gif)
 
-2 - Card Animado 3D.
+2 - Card Animado 3D.<br>
 ![](cardAnimado.gif)
